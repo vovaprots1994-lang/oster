@@ -8,7 +8,8 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 get_header(); ?>
     
-    <!-- Seo Section 2 -->
+    <!-- Seo Section 3 -->
+    
 	<div class="section seo-section">
 	    <div class="container">
 	        <div class="seo-block">
