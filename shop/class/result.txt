@@ -1,0 +1,7 @@
+Array
+(
+    [action] => update_cart_product
+    [id] => 60
+    [qty] => 1
+    [variation_id] => 95
+)

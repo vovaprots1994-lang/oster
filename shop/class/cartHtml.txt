@@ -1,0 +1,222 @@
+
+    <div class="cart-overlay js_cart_close"></div>
+
+    <div class="cart-inner">
+        <div class="btn-close js_cart_close"></div>
+
+        <div class="cart-products">
+            <pre></pre>float(330)
+
+
+       <div class="prd-horiz js_product" data-price="250">
+            <a class="prd-horiz-img" href="product__detail.php">
+                <picture>
+            <source srcset="https://oster.main.php/wp-content/uploads/2025/12/prd-img-4-png.webp" type="image/webp">
+            <img src="https://oster.main.php/wp-content/uploads/2025/12/prd-img-4.png" alt="image" loading="lazy" />
+            </picture>            </a>
+
+            <div class="prd-horiz-info">
+                <a class="prd-horiz-title" href="product__detail.php">Пиріжок вишневий</a>
+                
+                <div class="prd-horiz-addons-inner">
+                    <div class="prd-horiz-addons-title">Додатки: <i></i></div>
+                    <div class="prd-horiz-addons-wrap">
+                        <div class="prd-horiz-addons">
+                            <div class="prd-horiz-addon js_addon_delete_prd-horiz" data-price="30">Сир моцарела <i></i></div>
+                            <div class="prd-horiz-addon js_addon_delete_prd-horiz" data-price="40">Бельгійська Фрі <i></i></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="prd-horiz-controls">
+                    <div class="stepper" data-key="9edcb44f3f514ab442fc1331b17281e5">
+                        <button class="decr" type="button" aria-label="decrement"></button>
+                        <input class="currentQty" value="1" tabindex="-1" readonly>
+                        <button class="incr" type="button" aria-label="increment"></button>
+                    </div>
+
+                    <div class="price-wrap">
+                        <div class="price" itemprop="price"><b id="price">330</b>грн</div>
+                    </div>
+                </div>
+            </div>
+            <style>
+                
+                .loading2 {
+                    
+                    position: absolute;
+                    z-index: 2;
+                    top: var(--cart-inset);
+                    right: var(--cart-inset);
+                    will-change: transform;
+                    transform: translateX(100%);
+                    transition: var(--transition-1);
+                    width: min(32.8125rem, 100%);
+                    height: calc(100% - var(--cart-inset) * 2);
+                    max-height: 100%;
+                    display: flex;
+                    flex-direction: column;
+                    background: var(--clr-white);
+                    border-radius: 1.5rem;
+                }
+                .loading2 .cart-products {
+                    position: relative;
+                }
+                .loading2 .cart-products::before {
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    backdrop-filter: blur(5px);
+                    -webkit-backdrop-filter: blur(5px);
+                    background: rgba(255, 255, 255, 0.5);
+                    z-index: 998;
+                    pointer-events: auto;
+                    border-radius: 1.5rem;
+                }
+
+                .loading2::after {
+                    content: '';
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    width: 40px;
+                    height: 40px;
+                    background-image: url(https://oster.main.php/wp-content/themes/oster/img/loader.gif);
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    z-index: 999;
+                    pointer-events: none;
+                }
+            </style>
+            <button class="delete-btn js_product_remove" aria-label="delete button">
+                <svg width="24" height="24">
+                    <use xlink:href="https://oster.main.php/wp-content/themes/oster/img/icons/icons_global.svg#delete" fill="none"></use>
+                </svg>
+            </button>
+        </div>
+float(500)
+
+
+       <div class="prd-horiz js_product" data-price="250">
+            <a class="prd-horiz-img" href="product__detail.php">
+                <picture>
+            <source srcset="https://oster.main.php/wp-content/uploads/2025/12/prd-img-4-png.webp" type="image/webp">
+            <img src="https://oster.main.php/wp-content/uploads/2025/12/prd-img-4.png" alt="image" loading="lazy" />
+            </picture>            </a>
+
+            <div class="prd-horiz-info">
+                <a class="prd-horiz-title" href="product__detail.php">Пиріжок вишневий</a>
+                
+                <div class="prd-horiz-addons-inner">
+                    <div class="prd-horiz-addons-title">Додатки: <i></i></div>
+                    <div class="prd-horiz-addons-wrap">
+                        <div class="prd-horiz-addons">
+                            <div class="prd-horiz-addon js_addon_delete_prd-horiz" data-price="30">Сир моцарела <i></i></div>
+                            <div class="prd-horiz-addon js_addon_delete_prd-horiz" data-price="40">Бельгійська Фрі <i></i></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="prd-horiz-controls">
+                    <div class="stepper" data-key="0dd4aec759649f892c17f832af97bd25">
+                        <button class="decr" type="button" aria-label="decrement"></button>
+                        <input class="currentQty" value="2" tabindex="-1" readonly>
+                        <button class="incr" type="button" aria-label="increment"></button>
+                    </div>
+
+                    <div class="price-wrap">
+                        <div class="price" itemprop="price"><b id="price">500</b>грн</div>
+                    </div>
+                </div>
+            </div>
+            <style>
+                
+                .loading2 {
+                    
+                    position: absolute;
+                    z-index: 2;
+                    top: var(--cart-inset);
+                    right: var(--cart-inset);
+                    will-change: transform;
+                    transform: translateX(100%);
+                    transition: var(--transition-1);
+                    width: min(32.8125rem, 100%);
+                    height: calc(100% - var(--cart-inset) * 2);
+                    max-height: 100%;
+                    display: flex;
+                    flex-direction: column;
+                    background: var(--clr-white);
+                    border-radius: 1.5rem;
+                }
+                .loading2 .cart-products {
+                    position: relative;
+                }
+                .loading2 .cart-products::before {
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    backdrop-filter: blur(5px);
+                    -webkit-backdrop-filter: blur(5px);
+                    background: rgba(255, 255, 255, 0.5);
+                    z-index: 998;
+                    pointer-events: auto;
+                    border-radius: 1.5rem;
+                }
+
+                .loading2::after {
+                    content: '';
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    width: 40px;
+                    height: 40px;
+                    background-image: url(https://oster.main.php/wp-content/themes/oster/img/loader.gif);
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    z-index: 999;
+                    pointer-events: none;
+                }
+            </style>
+            <button class="delete-btn js_product_remove" aria-label="delete button">
+                <svg width="24" height="24">
+                    <use xlink:href="https://oster.main.php/wp-content/themes/oster/img/icons/icons_global.svg#delete" fill="none"></use>
+                </svg>
+            </button>
+        </div>
+
+        </div>
+
+        <div class="cart-bottom">
+            <div class="cart-total">
+                <div class="text">Сума:</div>
+                <div class="cart-total-price">
+                    <span class="js_cart_total">830</span> грн  
+                </div>
+            </div>
+            <a class="btn btn-primary" href="checkout__page.php">
+                <b>Оформити замовлення</b>
+            </a>
+        </div>
+
+        <!-- Shows when empty cart -->
+        <div class="cart-empty">
+            <div class="h4 title">Ваш кошик пустий</div>
+            <div class="text">Наповніть його товарами</div>
+        </div>
+
+        <div class="cart-bottom cart-bottom-empty">
+            <a class="btn btn-primary btn-block" href="product__catalog.php">
+                <b>Перейти до меню</b>
+            </a>
+        </div>
+    </div>
+
+
